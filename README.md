@@ -1,3 +1,10 @@
+  ## 👨‍💻 Developed By
+This project was developed by our team:
+
+- [Abdelrahman Emad](https://github.com/Abdelrhman12emad)
+- [AfraimElkesEleia](https://github.com/AfraimElkesEleia)
+
+
 # Volt Market ⚡
 An e-commerce app for electronics built with PostgreSQL (Supabase) and (Firebase) as the backend. It features user authentication, product browsing, cart management, orders, favorites, and product reviews — all tailored for an electronics store.
 ## System Design
@@ -89,8 +96,4 @@ An e-commerce app for electronics built with PostgreSQL (Supabase) and (Firebase
 - **Geolocator and Geocoding packages** (Location)
 - **Bloc(Cubit)** (Choose your state management here)
 - **Dart** (Programming Language)
-  ## 👨‍💻 Developed By
-This project was developed by our team:
 
-- [Abdelrahman Emad](https://github.com/Abdelrhman12emad)
-- [AfraimElkesEleia](https://github.com/AfraimElkesEleia)
